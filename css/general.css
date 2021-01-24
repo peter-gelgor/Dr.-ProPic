@@ -1,0 +1,41 @@
+body {
+    font-family: Ebrima;
+    text-align: center;
+    height: 100vh;
+    background: linear-gradient(to top, rgb(224, 152, 154) 0%, rgb(231, 21, 52) 37vh, rgba(224, 152, 154, 1) 100vh);
+}
+
+.header {
+    padding: 80px;
+    margin: 25px 50px 75px 100px;
+    text-align: center;
+    font-size: xx-large;
+    background: white;
+    color: #e0989a;
+}
+
+.description {
+    margin: 25px 50px 75px 100px;
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+}
+
+.theshit {
+    padding: 40px;
+    display: block;
+    text-align: center;
+    font-size: x-large;
+    top: 20vh;
+    color:white;
+}
+
+
+.methods {
+    padding: 60px;
+    margin: 25px 50px 75px 100px;
+    text-align: center;
+    font-size: xx-large;
+    background: white;
+    color: #e0989a;
+}
